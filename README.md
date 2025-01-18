@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/zelka2000/php-laravel-development-project-57/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/zelka2000/php-laravel-development-project-57/actions)
